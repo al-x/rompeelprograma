@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Memoria</title>
+  <style>
+    @keyframes moveText {
+      0% { left: 0; }
+      50% { left: 200px; }
+      100% { left: 0; }
+    }
+
+    body {
+      background-color: #F1F1F1;
+      color: #1A1A1A;
+      font-family: Garamond, serif;
+    }
+
+    .animated-text {
+      position: relative;
+      animation: moveText 3s infinite;
+      font-size: 35px;
+    }
+
+    p {
+      text-align: center;
+      font-size: 25px;
+    }
+
+    a {
+      display: block;
+      text-align: center;
+      font-size: 35px;
+      font-weight: bold;
+      text-decoration: underline;
+      color: black;
+    }
+  </style>
+</head>
+<body>
+  <h1>Soy memoria y también dejo de serlo</h1>
+  <div class="animated-text">Desplazamiento de Memoria</div>
+  <p>Observo por naturaleza,
+Como acto de amor.
+Registro manierismos.
+Tejo un archivo de bocas
+Formando diferentes curvas.
+Lenguas que se asoman
+Solo con ciertas letras.
+Dedos,
+Narices,
+Risas, quiebres de rizos, 
+Caminos de lo lacio. 
+
+Observo como regalo,
+Otorgo memoria. 
+Me consumo entre distintos rostros
+Porque yo solo soy quien me rodea.
+Crezco entre huesos distintos
+Aprehendo pieles complejas.
+Aprendo los reflejos de las lagrimas. 
+
+Y en mi cuarto, por las noches
+Conjuro el mundo que existe lejos de mi,
+Muchas veces sin mí.  
+Por que yo solo observo,
+Y en mi inadvertida quietud soy más
+Yo que todos esos rostros con nombres. 
+
+Observo por naturaleza, como amor,
+Como memoria. 
+Observo para que por lo menos en mi, 
+Alguien más se sepa pensado, registrado. 
+</p>
+  <img src="/Users/sofia/Documents/Sofía 2.0/artesito/Proyectos /exploración digital/HTML_S/Memoria_html/Imagenes/9.png"width="1000" height="600">
+  <a href="enlace.html">https://www.instagram.com/_dgtl_n01s3_/</a>
+</body>
+</html>
